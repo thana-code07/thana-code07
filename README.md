@@ -41,14 +41,18 @@ I'm a passionate Full-Stack Developer with a focus on building web applications 
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thana-code07&theme=tokyonight&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thanagithub&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thana-code07&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanagithub&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thanagithub&theme=tokyo-night" alt="Activity Graph" />
 </p>
 
 ---
